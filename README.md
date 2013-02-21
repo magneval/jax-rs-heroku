@@ -23,3 +23,4 @@ The master branch currently uses Grizzly. If you want to use Jetty, check out th
 
     $ git clone -b jetty git@github.com:jesperfj/jax-rs-heroku.git
 
+[![Build Status](https://appli-web.ci.cloudbees.com/job/essai/badge/icon)](https://appli-web.ci.cloudbees.com/job/essai/)
